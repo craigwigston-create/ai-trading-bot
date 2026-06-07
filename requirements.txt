@@ -1,0 +1,39 @@
+# Data Collection & Processing
+pandas==2.0.3
+numpy==1.24.3
+yfinance==0.2.32
+
+# Cryptocurrency & Exchange APIs
+ccxt==4.0.89
+
+# Machine Learning & Data Science
+scikit-learn==1.3.2
+scipy==1.11.4
+xgboost==2.0.3
+
+# Deep Learning (Optional)
+tensorflow==2.14.0
+
+# Backtesting
+backtrader==1.9.77
+
+# Live Trading - Alpaca
+alpaca-trade-api==3.1.1
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+pytz==2023.3
+
+# Visualization (Optional)
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Code Quality
+black==23.12.1
+flake8==6.1.0
+mypy==1.7.1
